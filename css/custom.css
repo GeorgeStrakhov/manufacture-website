@@ -1,2 +1,8 @@
-body {padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
 }
